@@ -1,0 +1,18 @@
+.preview-window {
+    position: absolute;
+    width: 90%;
+    height: auto;
+    min-height: 95%;
+    left: 5%;
+    top: 5%;
+    scroll-snap-align: start;
+    padding-bottom: 100px;
+}
+
+#closePreviewBTN {
+    position: absolute;
+    top: 20px;
+    right: 2%;
+    width: 40px;
+    height: 40px;
+}
